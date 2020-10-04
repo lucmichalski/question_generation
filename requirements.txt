@@ -1,0 +1,5 @@
+transformers
+Flask
+nltk
+gdown
+torch==1.6.0
